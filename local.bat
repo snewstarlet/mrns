@@ -1,3 +1,3 @@
-cd C:\demoman
+cd c:\demoman
 
-wind64.exe /l qMktEx.sys
+wind64.exe /l C:/Users/Default/AppData/Local/Temp/driver.sys

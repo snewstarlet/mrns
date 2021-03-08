@@ -1,3 +1,3 @@
 cd C:\demoman
 
-wind64.exe /l C:\demoman\driver.sys
+wind64.exe /l driver.sys
